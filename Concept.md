@@ -31,4 +31,4 @@ Onderaan: Hooibaal waar in je kan landen om een bal extra te krijgen
 ## Week 1
 
 Ik heb deze week een concept art gemaakt van de game die je hieronder ziet
-![Alt text](https://github.com/naokimon/m2gdv/blob/main/Videos%20n%20Images/concept.png "Concept art")
+![image](Opdrachten/concept.png)
