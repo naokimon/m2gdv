@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 8a703d67e9d8e8640a7e90fac8a84623
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3862415182340517589
+    second: Blood-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: 4140945799040118172
+    second: Blood-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: 6930550918051324761
+    second: Blood-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -9042952794909364117
+    second: Blood-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -4925481070081634733
+    second: Blood-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 2652288571736640796
+    second: Blood-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -5182989098026947533
+    second: Blood-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 4428570392547430858
+    second: Blood-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: -1343239580784822239
+    second: Blood-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 3424934667593134350
+    second: Blood-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -568900930961726136
+    second: Blood-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: 1222755321575176371
+    second: Blood-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 6282862681775499379
+    second: Blood-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 4000725189022417806
+    second: Blood-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -6379006382296572646
+    second: Blood-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: -6148988246469616504
+    second: Blood-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: -2865512231459786483
+    second: Blood-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -4729543039366187310
+    second: Blood-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 2554305826124915659
+    second: Blood-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: 3220851229311372916
+    second: Blood-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: 6081911071081884153
+    second: Blood-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: -4021758378837554631
+    second: Blood-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: -4159243973557648100
+    second: Blood-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: -6068850046297939962
+    second: Blood-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: -2043122445017922014
+    second: Blood-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 5716740528280162218
+    second: Blood-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: -3442382203666157012
+    second: Blood-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: 1450875360035050820
+    second: Blood-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: -5313474036138443934
+    second: Blood-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: -8629471128800694592
+    second: Blood-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: 8470196091032971862
+    second: Blood-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: -7675345229422500666
+    second: Blood-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: 5753784939292819078
+    second: Blood-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: -4779777120775535019
+    second: Blood-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: -9141147665928045287
+    second: Blood-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: 6491661689933411767
+    second: Blood-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: -1994748070605185985
+    second: Blood-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: 2407351415308427985
+    second: Blood-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: -7583567300987835017
+    second: Blood-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: 8658856851883697882
+    second: Blood-ezgif.com-gif-to-sprite-converter_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1849
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de6b76f42e0a9530800000000000000
+      internalID: 3862415182340517589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1697
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9daee9b348977930800000000000000
+      internalID: 4140945799040118172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1543
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953e43027534e2060800000000000000
+      internalID: 6930550918051324761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1381
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b603dca385af08280800000000000000
+      internalID: -9042952794909364117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1231
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e8fd5201d25abb0800000000000000
+      internalID: -4925481070081634733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1068
+        width: 139
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dc0305762dec420800000000000000
+      internalID: 2652288571736640796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 918
+        width: 139
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ca16140e25218b0800000000000000
+      internalID: -5182989098026947533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 807
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac11a96fe41757d30800000000000000
+      internalID: 4428570392547430858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 851
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1287313d7badb5de0800000000000000
+      internalID: -1343239580784822239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 850
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e013fc02fefc78f20800000000000000
+      internalID: 3424934667593134350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 804
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84523a11e9bda18f0800000000000000
+      internalID: -568900930961726136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 765
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8f4bd8c7918f010800000000000000
+      internalID: 1222755321575176371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 755
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37869cf2256313750800000000000000
+      internalID: 6282862681775499379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 754
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8383a7dc5e658730800000000000000
+      internalID: 4000725189022417806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d53432e773977a0800000000000000
+      internalID: -6379006382296572646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 689
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c5021c4c76aaaa0800000000000000
+      internalID: -6148988246469616504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 689
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d017d40cec7ab38d0800000000000000
+      internalID: -2865512231459786483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 602
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d638a4f9a94d5eb0800000000000000
+      internalID: -4729543039366187310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 643
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3e2e59d97b27320800000000000000
+      internalID: 2554305826124915659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 599
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e0c75d023c2bc20800000000000000
+      internalID: 3220851229311372916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 599
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9e95355e9476450800000000000000
+      internalID: 6081911071081884153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93acfe80018df28c0800000000000000
+      internalID: -4021758378837554631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 539
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1589e584a56746c0800000000000000
+      internalID: -4159243973557648100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 539
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6006c4b790d17cba0800000000000000
+      internalID: -6068850046297939962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 493
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226441016fe55a3e0800000000000000
+      internalID: -2043122445017922014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 452
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafc73dc831f55f40800000000000000
+      internalID: 5716740528280162218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 449
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c223a51df933a30d0800000000000000
+      internalID: -3442382203666157012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 449
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4459140f37b822410800000000000000
+      internalID: 1450875360035050820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bf4b0248fb246b0800000000000000
+      internalID: -5313474036138443934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 389
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce6850bab5fd3880800000000000000
+      internalID: -8629471128800694592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 389
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a2cefb77e2c8570800000000000000
+      internalID: 8470196091032971862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 343
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c468c7fd22bb7590800000000000000
+      internalID: -7675345229422500666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 302
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e7a8cdaec89df40800000000000000
+      internalID: 5753784939292819078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 299
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55682a27802daadb0800000000000000
+      internalID: -4779777120775535019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 299
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91db7f431ae142180800000000000000
+      internalID: -9141147665928045287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 239
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b53e76a9e3071a50800000000000000
+      internalID: 6491661689933411767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 239
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c9e2bc23b3154e0800000000000000
+      internalID: -1994748070605185985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d22ef68b51a86120800000000000000
+      internalID: 2407351415308427985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 193
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d2a5e18b1c1c690800000000000000
+      internalID: -7583567300987835017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad62c712e607a2870800000000000000
+      internalID: 8658856851883697882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blood-ezgif.com-gif-to-sprite-converter_0: 3862415182340517589
+      Blood-ezgif.com-gif-to-sprite-converter_1: 4140945799040118172
+      Blood-ezgif.com-gif-to-sprite-converter_10: -568900930961726136
+      Blood-ezgif.com-gif-to-sprite-converter_11: 1222755321575176371
+      Blood-ezgif.com-gif-to-sprite-converter_12: 6282862681775499379
+      Blood-ezgif.com-gif-to-sprite-converter_13: 4000725189022417806
+      Blood-ezgif.com-gif-to-sprite-converter_14: -6379006382296572646
+      Blood-ezgif.com-gif-to-sprite-converter_15: -6148988246469616504
+      Blood-ezgif.com-gif-to-sprite-converter_16: -2865512231459786483
+      Blood-ezgif.com-gif-to-sprite-converter_17: -4729543039366187310
+      Blood-ezgif.com-gif-to-sprite-converter_18: 2554305826124915659
+      Blood-ezgif.com-gif-to-sprite-converter_19: 3220851229311372916
+      Blood-ezgif.com-gif-to-sprite-converter_2: 6930550918051324761
+      Blood-ezgif.com-gif-to-sprite-converter_20: 6081911071081884153
+      Blood-ezgif.com-gif-to-sprite-converter_21: -4021758378837554631
+      Blood-ezgif.com-gif-to-sprite-converter_22: -4159243973557648100
+      Blood-ezgif.com-gif-to-sprite-converter_23: -6068850046297939962
+      Blood-ezgif.com-gif-to-sprite-converter_24: -2043122445017922014
+      Blood-ezgif.com-gif-to-sprite-converter_25: 5716740528280162218
+      Blood-ezgif.com-gif-to-sprite-converter_26: -3442382203666157012
+      Blood-ezgif.com-gif-to-sprite-converter_27: 1450875360035050820
+      Blood-ezgif.com-gif-to-sprite-converter_28: -5313474036138443934
+      Blood-ezgif.com-gif-to-sprite-converter_29: -8629471128800694592
+      Blood-ezgif.com-gif-to-sprite-converter_3: -9042952794909364117
+      Blood-ezgif.com-gif-to-sprite-converter_30: 8470196091032971862
+      Blood-ezgif.com-gif-to-sprite-converter_31: -7675345229422500666
+      Blood-ezgif.com-gif-to-sprite-converter_32: 5753784939292819078
+      Blood-ezgif.com-gif-to-sprite-converter_33: -4779777120775535019
+      Blood-ezgif.com-gif-to-sprite-converter_34: -9141147665928045287
+      Blood-ezgif.com-gif-to-sprite-converter_35: 6491661689933411767
+      Blood-ezgif.com-gif-to-sprite-converter_36: -1994748070605185985
+      Blood-ezgif.com-gif-to-sprite-converter_37: 2407351415308427985
+      Blood-ezgif.com-gif-to-sprite-converter_38: -7583567300987835017
+      Blood-ezgif.com-gif-to-sprite-converter_39: 8658856851883697882
+      Blood-ezgif.com-gif-to-sprite-converter_4: -4925481070081634733
+      Blood-ezgif.com-gif-to-sprite-converter_5: 2652288571736640796
+      Blood-ezgif.com-gif-to-sprite-converter_6: -5182989098026947533
+      Blood-ezgif.com-gif-to-sprite-converter_7: 4428570392547430858
+      Blood-ezgif.com-gif-to-sprite-converter_8: -1343239580784822239
+      Blood-ezgif.com-gif-to-sprite-converter_9: 3424934667593134350
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
