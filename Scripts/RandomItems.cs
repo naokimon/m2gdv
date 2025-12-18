@@ -6,20 +6,21 @@ public class RandomItems : MonoBehaviour
     void Start()
     {
         Debug.Log("Press Space to print one random item.");
-        Debug.Log("Press Return to print all items.");
+        Debug.Log("Press Backspace to print all items.");
     }
 
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.Space))PrintRandomItem();
-        if(Input.GetKeyDown(KeyCode.Return))PrintAllItems();
+        if(Input.GetKeyDown(KeyCode.Backspace))PrintAllItems();
     }
 
-    private string[] randomItems = new string[9];
+    [SerializeField] private string[] randomItems = new string[9];
 
     private void PrintRandomItem()
     {
-        
+        int index = UnityEngine.Random.Range(0, randomItems.Length);
+        Debug.Log(randomItems[index]);
     }
 
     private void PrintAllItems()
