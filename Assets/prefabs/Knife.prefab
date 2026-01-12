@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2346900307623683306}
   - component: {fileID: 1237913624448258330}
   - component: {fileID: 1693214289264487580}
+  - component: {fileID: 7066689288434833443}
   m_Layer: 0
   m_Name: Knife
   m_TagString: Untagged
@@ -188,3 +189,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &7066689288434833443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1158707051680375132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec244e3ac29ef6e47a6841e407d25e5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::KnifeCleanup

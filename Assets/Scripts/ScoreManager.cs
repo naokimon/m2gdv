@@ -1,32 +1,88 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class ScoreManager : MonoBehaviour
 {
-    // Singleton
     public static ScoreManager Instance;
 
-    // Totale score
+    [Header("Score")]
     public int score = 0;
 
+    [Header("Knife Tracking (assign when spawned)")]
+    public GameObject currentKnife;
+
+    [Header("Combo Settings")]
+    [SerializeField] private float comboResetTime = 5f;
+
+    private int scoreMultiplier = 1;
+    public int ComboMultiplier => scoreMultiplier;
+
+    private float comboTimer = 0f;
+    private string lastHitTag = "";
 
     private void Awake()
     {
-        // controleren of er al een ScoreManager bestaat
         if (Instance != null && Instance != this)
         {
             Destroy(gameObject);
             return;
         }
 
-        // dit is nu de enige ScoreManager in de scene
         Instance = this;
     }
 
-    // functie om punten toe te voegen
+    private void Update()
+    {
+        // Reset combo if knife is destroyed
+        if (currentKnife == null && scoreMultiplier > 1)
+        {
+            ResetCombo();
+            return;
+        }
+
+        // Timer-based reset
+        if (scoreMultiplier > 1)
+        {
+            comboTimer += Time.deltaTime;
+
+            if (comboTimer >= comboResetTime)
+            {
+                ResetCombo();
+            }
+        }
+    }
+
+    public void RegisterHit(string hitTag, int baseValue)
+    {
+        comboTimer = 0f;
+
+        // Same tag → build combo
+        if (hitTag == lastHitTag)
+        {
+            scoreMultiplier++;
+        }
+        else
+        {
+            scoreMultiplier = 1;
+            lastHitTag = hitTag;
+        }
+
+        AddScore(baseValue * scoreMultiplier);
+
+        Debug.Log($"Score: {score} | Combo: x{scoreMultiplier}");
+    }
+
+    private void ResetCombo()
+    {
+        scoreMultiplier = 1;
+        lastHitTag = "";
+        comboTimer = 0f;
+
+        Debug.Log("Combo reset");
+    }
+
     public void AddScore(int amount)
     {
-        score = score + amount;
-        // debug voor testen
-        Debug.Log("Score: " + score);
+        score += amount;
     }
 }

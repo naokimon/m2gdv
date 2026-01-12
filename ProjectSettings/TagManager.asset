@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Enemy
+  - Audio
   layers:
   - Default
   - TransparentFX
@@ -43,6 +45,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 354269857
+    locked: 0
+  - name: Line
+    uniqueID: 1888803779
     locked: 0
   - name: Main Sprites
     uniqueID: 1958290367

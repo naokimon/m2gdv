@@ -14,8 +14,13 @@ public class Killzone : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        Destroy(collision.gameObject);
+        KnifeLife knife = other.GetComponent<KnifeLife>();
+        if (knife != null)
+        {
+            knife.Kill(); // notify Shoot that knife is gone
+        }
     }
+
 }
